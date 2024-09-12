@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--bnsf--JoePearlAdobe.aem.page/
-- Live: https://main--bnsf--JoePearlAdobe.aem.live/
+- Preview: https://main--bnsf--joepearladobe.aem.page/
+- Live: https://main--bnsf--joepearladobe.aem.live/
 
 ## Installation
 
