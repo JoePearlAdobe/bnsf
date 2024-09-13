@@ -59,6 +59,8 @@ main .hero :any-link {
 main .hero-container > div :nth-child(2){
   background-color: white;
   width: 528px;
+  padding-top: 7px;
+  padding-bottom: 7px;
  
 }
 
